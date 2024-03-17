@@ -1,0 +1,9 @@
+param1: 12.0 # cohesion
+param2: 7.0 # separation
+param3: 28.0 # alignment
+param4: 1 # target
+param5: 1.5 # visibility
+param6: 0.3 # safe dist
+param7: 1.0 # desired dist
+param8: 0.0
+param9: 0.0

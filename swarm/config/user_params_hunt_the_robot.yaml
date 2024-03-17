@@ -1,0 +1,9 @@
+param1: 1.0 # ws_obst
+param2: 50.0 # ws_line
+param3: 1.0 # ws_other
+param4: 1.0 # wt
+param5: 4.0 # vis
+param6: 0.01 # conv_thr
+param7: 0.2 # DD offt
+param8: 0.2 ## DD tol
+param9: 0.0
